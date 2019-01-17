@@ -1,6 +1,4 @@
 # hello-world
-Hello to world
-
 
 Hi!
 My name is zeinab *(ZAY-NUB)!
